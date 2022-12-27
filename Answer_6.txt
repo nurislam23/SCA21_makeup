@@ -1,0 +1,7 @@
+git log: This command shows the commit history for the current branch. By default, it shows the commits in reverse chronological order, with the most recent commit at the top. You can use options like --oneline, --graph, and --decorate to modify the output.
+
+git show: This command displays information about a specific commit. You can use it to view the changes made in a commit, the commit message, and other metadata.
+
+git grep is a command that allows you to search for a specific string or pattern in the tracked files of a Git repository. It searches through the entire history of the repository, not just the current working tree, so you can use it to find references to a particular string or pattern even in older commits
+
+git blame: This command shows the last commit that modified each line of a file. It can be useful for identifying when and why a particular change was made
